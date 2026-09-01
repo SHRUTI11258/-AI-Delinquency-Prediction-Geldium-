@@ -13,10 +13,7 @@ Built a Logistic Regression model for delinquency prediction using GenAI tools (
 Task 3 — Business Report for Stakeholders
 Translated model outputs into a stakeholder-ready business report for the Head of Collections. Identified high-risk segments (unemployed customers at 19.4%, young adults under 25 at 18.7%, high DTI customers at 18.3%) and recommended a 6-week pilot of a Hardship Support Initiative.
 
-Task 4 — AI-Powered Collections System Design
-Designed an autonomous AI system with agentic AI capabilities — including a data pipeline, decision engine, action layer, and continuous learning loop. Established Responsible AI guardrails for fairness, explainability, regulatory compliance (ECOA, GDPR, FCA, FCRA), and human-in-the-loop oversight.
-
- Tools & Skills
+Tools & Skills
 GenAI (ChatGPT, Gemini) | Logistic Regression | Predictive Modeling | Agentic AI | Data Storytelling | Ethical AI | Bias Detection | Regulatory Compliance | Business Reporting
 
  Dataset
